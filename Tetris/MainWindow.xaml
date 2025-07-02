@@ -1,0 +1,11 @@
+﻿<Window x:Class="TetrisGame.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Tetris" Height="735" Width="1100" ResizeMode="NoResize" 
+        KeyDown="Window_KeyDown"
+        Focusable="True"
+        Loaded="Window_Loaded">
+    <Grid Background="#2D2D30">
+        <ContentControl x:Name="MainContent" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
+    </Grid>
+</Window>

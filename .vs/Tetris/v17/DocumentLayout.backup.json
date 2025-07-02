@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TAT\\Desktop\\Tetris_C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFB36E7-8261-4A51-AB84-7DED9F5378B0}|Tetris\\TetrisGame.csproj|c:\\users\\tat\\desktop\\tetris_c#\\tetris\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFB36E7-8261-4A51-AB84-7DED9F5378B0}|Tetris\\TetrisGame.csproj|solutionrelative:tetris\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFB36E7-8261-4A51-AB84-7DED9F5378B0}|Tetris\\TetrisGame.csproj|C:\\Users\\TAT\\Desktop\\Tetris_C#\\tetris\\management\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFB36E7-8261-4A51-AB84-7DED9F5378B0}|Tetris\\TetrisGame.csproj|solutionrelative:tetris\\management\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFB36E7-8261-4A51-AB84-7DED9F5378B0}|Tetris\\TetrisGame.csproj|C:\\Users\\TAT\\Desktop\\Tetris_C#\\tetris\\gamemodes\\gamemodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFB36E7-8261-4A51-AB84-7DED9F5378B0}|Tetris\\TetrisGame.csproj|solutionrelative:tetris\\gamemodes\\gamemodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFB36E7-8261-4A51-AB84-7DED9F5378B0}|Tetris\\TetrisGame.csproj|C:\\Users\\TAT\\Desktop\\Tetris_C#\\tetris\\factories\\gamemodefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFB36E7-8261-4A51-AB84-7DED9F5378B0}|Tetris\\TetrisGame.csproj|solutionrelative:tetris\\factories\\gamemodefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFB36E7-8261-4A51-AB84-7DED9F5378B0}|Tetris\\TetrisGame.csproj|C:\\Users\\TAT\\Desktop\\Tetris_C#\\tetris\\commands\\commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFB36E7-8261-4A51-AB84-7DED9F5378B0}|Tetris\\TetrisGame.csproj|solutionrelative:tetris\\commands\\commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFB36E7-8261-4A51-AB84-7DED9F5378B0}|Tetris\\TetrisGame.csproj|c:\\users\\tat\\desktop\\tetris_c#\\tetris\\ui\\mainmenuview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EEFB36E7-8261-4A51-AB84-7DED9F5378B0}|Tetris\\TetrisGame.csproj|solutionrelative:tetris\\ui\\mainmenuview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainMenuView.xaml",
+              "DocumentMoniker": "C:\\Users\\TAT\\Desktop\\Tetris_C#\\Tetris\\UI\\MainMenuView.xaml",
+              "RelativeDocumentMoniker": "Tetris\\UI\\MainMenuView.xaml",
+              "ToolTip": "C:\\Users\\TAT\\Desktop\\Tetris_C#\\Tetris\\UI\\MainMenuView.xaml",
+              "RelativeToolTip": "Tetris\\UI\\MainMenuView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-02T11:38:33.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Commands.cs",
+              "DocumentMoniker": "C:\\Users\\TAT\\Desktop\\Tetris_C#\\Tetris\\Commands\\Commands.cs",
+              "RelativeDocumentMoniker": "Tetris\\Commands\\Commands.cs",
+              "ToolTip": "C:\\Users\\TAT\\Desktop\\Tetris_C#\\Tetris\\Commands\\Commands.cs",
+              "RelativeToolTip": "Tetris\\Commands\\Commands.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAmwFEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T19:01:29.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameModeFactory.cs",
+              "DocumentMoniker": "C:\\Users\\TAT\\Desktop\\Tetris_C#\\Tetris\\Factories\\GameModeFactory.cs",
+              "RelativeDocumentMoniker": "Tetris\\Factories\\GameModeFactory.cs",
+              "ToolTip": "C:\\Users\\TAT\\Desktop\\Tetris_C#\\Tetris\\Factories\\GameModeFactory.cs",
+              "RelativeToolTip": "Tetris\\Factories\\GameModeFactory.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T19:01:25.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameModes.cs",
+              "DocumentMoniker": "C:\\Users\\TAT\\Desktop\\Tetris_C#\\Tetris\\GameModes\\GameModes.cs",
+              "RelativeDocumentMoniker": "Tetris\\GameModes\\GameModes.cs",
+              "ToolTip": "C:\\Users\\TAT\\Desktop\\Tetris_C#\\Tetris\\GameModes\\GameModes.cs",
+              "RelativeToolTip": "Tetris\\GameModes\\GameModes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T19:00:42.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\TAT\\Desktop\\Tetris_C#\\Tetris\\Management\\GameManager.cs",
+              "RelativeDocumentMoniker": "Tetris\\Management\\GameManager.cs",
+              "ToolTip": "C:\\Users\\TAT\\Desktop\\Tetris_C#\\Tetris\\Management\\GameManager.cs",
+              "RelativeToolTip": "Tetris\\Management\\GameManager.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAtwLAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T19:00:36.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\TAT\\Desktop\\Tetris_C#\\Tetris\\Models\\Models.cs",
+              "RelativeDocumentMoniker": "Tetris\\Models\\Models.cs",
+              "ToolTip": "C:\\Users\\TAT\\Desktop\\Tetris_C#\\Tetris\\Models\\Models.cs",
+              "RelativeToolTip": "Tetris\\Models\\Models.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:56:48.941Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
